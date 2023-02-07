@@ -34,6 +34,80 @@ Manipular y trabajar con la potencia y la energía relacionándola con la ley de
 
 Capitulo 13
 
+1. Convierta los siguientes valores en milihenries:
+
+	1 H=1000 mH
+  
+	250 μH=0,25 mH
+  
+	10 μH=0,1 mH
+  
+	0,0005 H=0,5 mH
+ 
+3. ¿Cuál es el voltaje en una bobina cuando di/dt =10 mA/µs y L=5 µH?
+
+![image](https://user-images.githubusercontent.com/116814386/217155310-b92623d5-8a74-48c7-930e-501093f45a6a.png)
+
+5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+![image](https://user-images.githubusercontent.com/116814386/217155397-0657547c-ff20-4a95-99d0-4a924ab899f4.png)
+
+7. ¿Qué cantidad de energía se guarda en un inductor de 4,7 mH cuando la corriente es de 20 mA?
+
+![image](https://user-images.githubusercontent.com/116814386/217155477-7e216790-e4f7-412b-af67-29eb04ce9b03.png)
+
+9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).
+
+La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2μA)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1.
+
+11. Se conectan cinco inductores en serie. El valor más bajo es de 5 µH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+
+![image](https://user-images.githubusercontent.com/116814386/217155619-04d681c2-32ad-4143-b892-500e80edcda4.png)
+
+13. Determine la inductancia total en la figura 13-44. 
+
+![image](https://user-images.githubusercontent.com/116814386/217155701-77977ff1-d026-45ba-971a-ccc38f024f67.png)
+
+15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
+
+![image](https://user-images.githubusercontent.com/116814386/217155774-56a92272-e29c-49a6-88c7-3684c83aaf55.png)
+
+17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
+
+![image](https://user-images.githubusercontent.com/116814386/217155857-6e02a918-c186-4947-ae5c-5dbb2c4d85b9.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217155965-f0d4b524-c29e-4963-9d21-f232944fa5fb.png)
+
+19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+
+![image](https://user-images.githubusercontent.com/116814386/217156115-75c3b271-8b05-4f92-ae01-f59e41cd8fc4.png)
+
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![image](https://user-images.githubusercontent.com/116814386/217156404-028ac0d8-7961-4b8e-b999-68e6ad4937ca.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217156520-a4af4ca1-d943-4ad2-8b22-3d356ab0ac55.png)
+
+27.	Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![image](https://user-images.githubusercontent.com/116814386/217156643-752f43ae-4340-43cc-b1c7-f1b6333ba338.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217156892-4f22799d-539e-47c0-b0e9-c365b8d21306.png)
+
+29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5T y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
+
+![image](https://user-images.githubusercontent.com/116814386/217157061-b0088db9-c033-4e41-a158-ecdf32e209aa.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217157205-8e7fad57-a13f-41bd-8b26-a9381db0331b.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217157324-583c7f97-4de2-48e4-8c12-05ab031a97a8.png)
+
+31.	Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+![image](https://user-images.githubusercontent.com/116814386/217157419-11756488-63cb-4d23-8334-624f6b51e67d.png)
+
+![Uploading image.png…]()
+
 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
 ![image](https://user-images.githubusercontent.com/116814386/217065306-0116c485-d3dc-4401-bb84-91ba6d504d51.png)
