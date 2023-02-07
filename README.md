@@ -7,13 +7,10 @@ Ing:Darwin Omar Alulema
 
 1.1Objetivo general
 
-Leer comprender y manipular de forma adecuada las unidades y magnitudes que representan la energía y la potencia En un circuito eléctrico para poder aplicarlo a la resolución de problemas
 
 1.2Objetivos especificos
 
-Conocer y comprender de forma adecuada la ley de Ohm para así poder relacionar las tres unidades fundamentales de la electricidad de manera eficiente y sencilla de manera tal que podamos realizar cálculos de este sin ninguna dificultad
 
-Manipular y trabajar con la potencia y la energía relacionándola con la ley de Ohm y los circuitos eléctricos para comprender mejor el funcionamiento de estás cantidad
 2,Marco teorico 
 
 ![image](https://user-images.githubusercontent.com/116814386/217064379-f2efcc70-2a26-4637-a338-e720cea75b36.png)
@@ -106,7 +103,56 @@ La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que 
 
 ![image](https://user-images.githubusercontent.com/116814386/217157419-11756488-63cb-4d23-8334-624f6b51e67d.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116814386/217157701-1b85b0fd-e87e-426c-9c7b-4ff58038947b.png)
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
+
+![image](https://user-images.githubusercontent.com/116814386/217157906-3031d941-836b-41cc-822c-985a07e19d5e.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217158243-24ee843f-41b3-4bb3-a183-990906b831c7.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217158343-b1dcce8b-3217-4b26-8214-209434aea553.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217158390-43f08a44-98aa-4d97-b797-1fd5a3e20bef.png)
+
+35. Determine IL2 en la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/116814386/217158492-41c89129-dcfd-4e93-888a-a0d6dee988d3.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217158591-d9ae0dd6-86a1-41db-9971-5ae4e8e26f62.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217158676-57622c93-2ff8-4408-9aac-efd4e61a510d.png)
+
+CAPITULO 14
+
+1. ¿Cuál es la inductancia mutua cuando k=0.75,L1=1 µH,y L2=4 µH?
+
+![image](https://user-images.githubusercontent.com/116814386/217159052-0b79eebe-7e60-4248-b047-5414868ed8fa.png)
+
+
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?}
+
+a. ![image](https://user-images.githubusercontent.com/116814386/217159212-a6fc310c-c4d9-4fd8-a2c0-7bd9f6468801.png)
+
+b. ![image](https://user-images.githubusercontent.com/116814386/217159326-7a762e64-2f60-4f0a-afc0-36d9ebf19db0.png)
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/116814386/217159534-9924bbb6-eeef-4726-9613-262ccb521fe7.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217159611-3d4ba5fc-4933-4365-ad62-b4d020c61051.png)
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/116814386/217159763-83fedac2-5ce7-444f-9c6d-ebfcfc91c88c.png)
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/116814386/217159963-5488999c-e7b8-40b5-9203-d54ee3913219.png)
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/116814386/217160088-057848ee-dd45-485f-8b41-57ce50c8acef.png)
 
 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
@@ -173,7 +219,6 @@ https://youtu.be/8mIxgcO2Cvg
 
 5. Conclusión
 
-Se pudo entender de manera más clara la relación que existe entre las unidades de la ley de Ohm con la potencia y la energía Además de que se encendió su funcionamiento y algunos principios para la localización de fallas en un circuito eléctrico de manera más eficiente
 
 6 bibliografía
 
