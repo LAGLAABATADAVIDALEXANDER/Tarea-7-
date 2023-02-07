@@ -38,6 +38,8 @@ Capitulo 13
 
 ![image](https://user-images.githubusercontent.com/116814386/217065306-0116c485-d3dc-4401-bb84-91ba6d504d51.png)
 
+![image](https://user-images.githubusercontent.com/116814386/217124268-9cd8bad3-1635-4865-9d48-cae78268d0ec.png)
+
 15. Determine las siguientes cantidades en la figura 14-46.
 
 ![image](https://user-images.githubusercontent.com/116814386/217065462-eb7c927e-df26-4d85-b123-1b28a64f132d.png)
@@ -45,28 +47,43 @@ Capitulo 13
 (a) Corriente primaria (b) Corriente secundaria
 (c) Voltaje secundario (d) Potencia en la carga
 
+![image](https://user-images.githubusercontent.com/116814386/217124306-6b1306c3-032e-4513-bc7a-586cc3177e41.png)
+
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
 
 ![image](https://user-images.githubusercontent.com/116814386/217065554-7c6e6acf-6deb-42e1-b793-a822355335b5.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217124342-8926e037-10ce-44a2-8964-669f00f7e6c2.png)
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
 
 ![image](https://user-images.githubusercontent.com/116814386/217065652-f4cde697-f7bc-46fc-9e22-8c2e5dcee8e4.png)
 
+![image](https://user-images.githubusercontent.com/116814386/217124382-971f4352-11ad-4b34-b1cf-435530a648a2.png)
+
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
+100-5.5=94.5
 
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
+100-2=98
+
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+![image](https://user-images.githubusercontent.com/116814386/217122713-9b741312-014a-41c4-8474-d4a385b008a9.png)
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
 ![image](https://user-images.githubusercontent.com/116814386/217065869-6c61d91f-44a6-44c3-9bb6-82bd56619777.png)
 
+![image](https://user-images.githubusercontent.com/116814386/217123150-dc7825e3-75e3-4a80-861c-6c35715a6622.png)
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/116814386/217065936-3107a044-ebbc-4fbf-9573-4a17f44df326.png)
+
+![image](https://user-images.githubusercontent.com/116814386/217124213-5d449a35-3a71-42e3-9f7c-0087a50d0f87.png)
 
 *31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
@@ -74,10 +91,7 @@ Capitulo 13
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
-
-(a) Todos los voltajes y corrientes presentes en la carga
-
-(b) La resistencia reflejada en el primario
+Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 
 4. Video
 
