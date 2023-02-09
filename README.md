@@ -7,9 +7,13 @@ Ing:Darwin Omar Alulema
 
 1.1Objetivo general
 
+Comprender y analizar el comportamiento del los principales elemtos elctronisos y us aplicaciones
 
 1.2Objetivos especificos
 
+comprender como funcionan los inductores y tansformadores ademas de saber el principio fisica atras de ellos
+
+Comprender la utilidad de los tranformadores y de los inductores en las aplicaiones de la elctronica 
 
 2,Marco teorico 
 
@@ -219,7 +223,7 @@ https://youtu.be/8mIxgcO2Cvg
 
 5. Conclusión
 
-
+Se comprendio la importancia de los conductore sy tranformadores en los circuitos eletricos y electronicos
 6 bibliografía
 
 http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
